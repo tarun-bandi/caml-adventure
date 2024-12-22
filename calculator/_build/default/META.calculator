@@ -1,0 +1,9 @@
+package "hello" (
+  directory = "hello"
+  description = ""
+  requires = ""
+  archive(byte) = "hello.cma"
+  archive(native) = "hello.cmxa"
+  plugin(byte) = "hello.cma"
+  plugin(native) = "hello.cmxs"
+)

@@ -1,0 +1,30 @@
+(lang dune 3.17)
+(name calculator)
+(sections (lib .) (libexec .) (bin ../../bin))
+(files
+ (lib
+  (META
+   dune-package
+   hello/hello.a
+   hello/hello.cma
+   hello/hello.cmi
+   hello/hello.cmt
+   hello/hello.cmx
+   hello/hello.cmxa
+   hello/hello.ml
+   opam))
+ (libexec (hello/hello.cmxs))
+ (bin (greeter)))
+(library
+ (name calculator.hello)
+ (kind normal)
+ (archives (byte hello/hello.cma) (native hello/hello.cmxa))
+ (plugins (byte hello/hello.cma) (native hello/hello.cmxs))
+ (native_archives hello/hello.a)
+ (main_module_name Hello)
+ (modes byte native)
+ (modules
+  (singleton
+   (obj_name hello)
+   (visibility public)
+   (source (path Hello) (impl (path hello/hello.ml))))))

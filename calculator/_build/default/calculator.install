@@ -1,0 +1,18 @@
+lib: [
+  "_build/install/default/lib/calculator/META"
+  "_build/install/default/lib/calculator/dune-package"
+  "_build/install/default/lib/calculator/hello/hello.a" {"hello/hello.a"}
+  "_build/install/default/lib/calculator/hello/hello.cma" {"hello/hello.cma"}
+  "_build/install/default/lib/calculator/hello/hello.cmi" {"hello/hello.cmi"}
+  "_build/install/default/lib/calculator/hello/hello.cmt" {"hello/hello.cmt"}
+  "_build/install/default/lib/calculator/hello/hello.cmx" {"hello/hello.cmx"}
+  "_build/install/default/lib/calculator/hello/hello.cmxa" {"hello/hello.cmxa"}
+  "_build/install/default/lib/calculator/hello/hello.ml" {"hello/hello.ml"}
+  "_build/install/default/lib/calculator/opam"
+]
+libexec: [
+  "_build/install/default/lib/calculator/hello/hello.cmxs" {"hello/hello.cmxs"}
+]
+bin: [
+  "_build/install/default/bin/greeter"
+]

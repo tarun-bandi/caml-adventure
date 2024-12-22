@@ -1,0 +1,16 @@
+# dune exec greeter
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /Users/tarunbandi/.cache/dune/db
+# Workspace root: "/Users/tarunbandi/Desktop/caml adventure/calculator"
+# Auto-detected concurrency: 8
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /Users/tarunbandi/.opam/ocaml5/bin/ocamlc.opt -config > /var/folders/b4/vxb_zl196c3_42c4b4x9_dmc0000gn/T/dune_a6dfc8_output

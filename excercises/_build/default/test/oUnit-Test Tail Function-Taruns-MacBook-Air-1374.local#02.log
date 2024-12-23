@@ -1,0 +1,9 @@
+2024-12-23T04:02:44+00:00 Taruns-MacBook-Air-1374.local#02 I: Start test Test Tail Function:1:test_empty_tail.
+2024-12-23T04:02:44+00:00 Taruns-MacBook-Air-1374.local#02 I: Test Test Tail Function:1:test_empty_tail is successful.
+2024-12-23T04:02:44+00:00 Taruns-MacBook-Air-1374.local#02 I: End test Test Tail Function:1:test_empty_tail.
+2024-12-23T04:02:44+00:00 Taruns-MacBook-Air-1374.local#02 I: Start test Test Tail Function:4:test_nth_irregular.
+2024-12-23T04:02:44+00:00 Taruns-MacBook-Air-1374.local#02 I: Test Test Tail Function:4:test_nth_irregular is successful.
+2024-12-23T04:02:44+00:00 Taruns-MacBook-Air-1374.local#02 I: End test Test Tail Function:4:test_nth_irregular.
+2024-12-23T04:02:44+00:00 Taruns-MacBook-Air-1374.local#02 I: Start test Test Tail Function:5:test_is_palindrome.
+2024-12-23T04:02:44+00:00 Taruns-MacBook-Air-1374.local#02 I: Test Test Tail Function:5:test_is_palindrome is successful.
+2024-12-23T04:02:44+00:00 Taruns-MacBook-Air-1374.local#02 I: End test Test Tail Function:5:test_is_palindrome.

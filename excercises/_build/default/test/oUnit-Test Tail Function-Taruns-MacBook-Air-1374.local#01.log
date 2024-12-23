@@ -1,0 +1,9 @@
+2024-12-23T04:02:44+00:00 Taruns-MacBook-Air-1374.local#01 I: Start test Test Tail Function:0:test_normal_tail.
+2024-12-23T04:02:44+00:00 Taruns-MacBook-Air-1374.local#01 I: Test Test Tail Function:0:test_normal_tail is successful.
+2024-12-23T04:02:44+00:00 Taruns-MacBook-Air-1374.local#01 I: End test Test Tail Function:0:test_normal_tail.
+2024-12-23T04:02:44+00:00 Taruns-MacBook-Air-1374.local#01 I: Start test Test Tail Function:2:test_poly_tail.
+2024-12-23T04:02:44+00:00 Taruns-MacBook-Air-1374.local#01 I: Test Test Tail Function:2:test_poly_tail is successful.
+2024-12-23T04:02:44+00:00 Taruns-MacBook-Air-1374.local#01 I: End test Test Tail Function:2:test_poly_tail.
+2024-12-23T04:02:44+00:00 Taruns-MacBook-Air-1374.local#01 I: Start test Test Tail Function:3:test_nth_normal.
+2024-12-23T04:02:44+00:00 Taruns-MacBook-Air-1374.local#01 I: Test Test Tail Function:3:test_nth_normal is successful.
+2024-12-23T04:02:44+00:00 Taruns-MacBook-Air-1374.local#01 I: End test Test Tail Function:3:test_nth_normal.

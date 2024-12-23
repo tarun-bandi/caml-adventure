@@ -1,0 +1,4 @@
+(tests
+ (names test_tom test_excercises)
+ (modules test_tom test_excercises)
+ (libraries lists ounit2))
